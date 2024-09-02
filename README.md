@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, IoT
 - 🌱 I’m currently learning AI on Dongyang Mirae University
 - 📫 How to reach me jyslove05@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He, Him
 - ⚡ Fun fact: I'm noob :)
 
 <!---
