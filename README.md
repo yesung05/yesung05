@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-%23306998.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-%23F1C20E.svg?style=for-the-badge&logo=jsp&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-%23F1C20E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 - 📫 How to reach me jyslove05@gmail.com
 - 😄 Pronouns: He, Him
