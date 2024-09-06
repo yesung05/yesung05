@@ -7,8 +7,7 @@
       `"")---(""` |___.|
      /:::::::::::\" _  "
     /:::=======:::\`\`\
-   `"""""""""""""`  '-'
-
+    
 - 👋 Hi, I’m Yesung Cho
 - 👀 I’m interested in AI, IoT
 - 🌱 I’m currently learning AI on Dongyang Mirae University
