@@ -1,4 +1,4 @@
-🎈Yesung Cho🎈
+<h3>🎈Yesung Cho🎈</h3>
 <p>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesung05%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   <a href="https://www.instagram.com/_yesung.05/"><img src="https://img.shields.io/badge/Instagram-_yesung.05-E4405F?style=for-the-badge&logo=instagram&logoColor=white&edge_flat=false"></a>
@@ -21,7 +21,7 @@
 - ⚡ Fun fact: I'm noob :)
 - 🏠 Living at Seoul, South Korea
 - 📖 I started learning programming at age 13
-- 
+
 <!---
 yesung05/yesung05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
