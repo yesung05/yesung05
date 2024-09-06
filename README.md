@@ -11,9 +11,11 @@
 <img src="(https://img.shields.io/badge/Java-%235382A1.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p></br>
 
-📫 Contect Me 📫</br>
-![Instagram](https://img.shields.io/badge/Instagram-_yesung.05-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-jyslove05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<h3>📫 Contect Me 📫</h3>
+<p>
+  <a href="https://www.instagram.com/_yesung.05/"><img src="https://img.shields.io/badge/Instagram-_yesung.05-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Gmail-jyslove05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</p>
 
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I'm noob :)
