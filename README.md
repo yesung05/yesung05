@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yesung Cho
-- 👀 I’m interested in AI, IoT
-📖 Studying📖
+- 👀 I’m interested in AI, IoT</br>
+📖 Studying📖</br>
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%235382A1.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23306998.svg?style=for-the-badge&logo=python&logoColor=white)
