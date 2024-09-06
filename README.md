@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Yesung Cho
-- 👀 I’m interested in AI, IoT
-- </br>
+🎈Yesung Cho🎈
+<p>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesung05%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://www.instagram.com/_yesung.05/"><img src="https://img.shields.io/badge/Instagram-_yesung.05-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Gmail-jyslove05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</p>
 <h3>📖 Studying 📖</h3>
 <p>
   <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -9,13 +12,10 @@
 <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSP-%23F1C20E.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="(https://img.shields.io/badge/Java-%235382A1.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p></br>
+</p>
 
 <h3>📫 Contect Me 📫</h3>
-<p>
-  <a href="https://www.instagram.com/_yesung.05/"><img src="https://img.shields.io/badge/Instagram-_yesung.05-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Gmail-jyslove05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</p>
+
 
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I'm noob :)
