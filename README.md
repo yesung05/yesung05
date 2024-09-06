@@ -1,3 +1,14 @@
+                  .----.
+      .---------. | == |
+      |.-"""""-.| |----|
+      ||       || | == |
+      ||       || |----|
+      |'-.....-'| |::::|
+      `"")---(""` |___.|
+     /:::::::::::\" _  "
+    /:::=======:::\`\`\
+   `"""""""""""""`  '-'
+
 - 👋 Hi, I’m Yesung Cho
 - 👀 I’m interested in AI, IoT
 - 🌱 I’m currently learning AI on Dongyang Mirae University
@@ -5,7 +16,7 @@
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I'm noob :)
 - 🏠 Living at Seoul, South Korea
-- 📖 I started learning programming at age 12
+- 📖 I started learning programming at age 13
 
 <!---
 yesung05/yesung05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
