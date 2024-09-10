@@ -7,16 +7,16 @@ Growing Grass
 <h3>📖 Studying 📖</h3>
 <p>
 <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" height="20px"/>
-<img src="https://img.shields.io/badge/Python-%23306998.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSP-%23F1C20E.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="(https://img.shields.io/badge/Java-%235382A1.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-%23306998.svg?style=for-the-badge&logo=python&logoColor=white" height="20px"/>
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="20px"/>
+<img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="20px"/>
+<img src="https://img.shields.io/badge/JSP-%23F1C20E.svg?style=for-the-badge&logo=javascript&logoColor=white" height="20px"/>
+<img src="(https://img.shields.io/badge/Java-%235382A1.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="20px"/>
 </p>
 
 <h3>📫 Contect Me 📫</h3>
-<p> <a href="https://www.instagram.com/_yesung.05/"><img src="https://img.shields.io/badge/Instagram-_yesung.05-E4405F?style=for-the-badge&logo=instagram&logoColor=white&edge_flat=false"></a>
-  <img src="https://img.shields.io/badge/Gmail-jyslove05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></p>
+<p> <a href="https://www.instagram.com/_yesung.05/"><img src="https://img.shields.io/badge/Instagram-_yesung.05-E4405F?style=for-the-badge&logo=instagram&logoColor=white&edge_flat=false" height="20px"></a>
+  <img src="https://img.shields.io/badge/Gmail-jyslove05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white height="20px""></p>
 
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I'm noob :)
