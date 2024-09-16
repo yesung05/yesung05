@@ -23,6 +23,7 @@
 - 📖 I started learning programming at age 14
   
 System.out.println("Hello World!");
+printf
 <!---
 yesung05/yesung05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
