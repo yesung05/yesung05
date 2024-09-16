@@ -21,8 +21,6 @@
 - ⚡ Fun fact: I'm noob :)
 - 🏠 Living at Seoul, South Korea
 - 📖 I started learning programming at age 14
-  
-System.out.println("Hello World!");
 printf
 <!---
 yesung05/yesung05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
