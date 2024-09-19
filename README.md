@@ -5,8 +5,8 @@
 </p>
 <h4>📖 Studying 📖</h4>
 <p>
-<img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" height="22px"/>
-<img src="https://img.shields.io/badge/Python-%23306998.svg?style=for-the-badge&logo=python&logoColor=white" height="20px"/>
+<img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" height="21px"/>
+<img src="https://img.shields.io/badge/Python-%23306998.svg?style=for-the-badge&logo=python&logoColor=white" height="21px"/>
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="20px"/>
 <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="20px"/>
 <img src="https://img.shields.io/badge/JSP-%23F1C20E.svg?style=for-the-badge&logo=javascript&logoColor=white" height="20px"/>
