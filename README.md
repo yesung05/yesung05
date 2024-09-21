@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Gmail-jyslove05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20px"></p>
 
 - 😄 Pronouns: He, Him
+- age :19
 - ⚡ Fun fact: I'm noob :)
 - 🏠 Living at Seoul, South Korea
 - 📖 I started learning programming at age 14
