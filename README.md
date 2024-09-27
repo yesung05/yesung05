@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/JSP-%23F1C20E.svg?style=for-the-badge&logo=javascript&logoColor=white" height="21px"/>
 <img src="(https://img.shields.io/badge/Java-%235382A1.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="21px"/>
 </p>
-
+<hr>
 <h4>📫 Contect Me 📫</h4>
 <p> <a href="https://www.instagram.com/_yesung.05/"><img src="https://img.shields.io/badge/Instagram-_yesung.05-E4405F?style=for-the-badge&logo=instagram&logoColor=white&edge_flat=false" height="21px"></a>
   <img src="https://img.shields.io/badge/Gmail-jyslove05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="21px"></p>
