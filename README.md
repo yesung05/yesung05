@@ -1,5 +1,5 @@
-<br>
-<h4>🎈Yesung Cho🎈</h4>
+<h2>🎈 Yesung Cho 🎈</h2>
+<h4>🍰 21/09/2005 🍰</h4>
 <p>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesung05%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
  
@@ -15,9 +15,7 @@
 <img src="(https://img.shields.io/badge/Java-%235382A1.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="21px"/>
 </p>
 <hr>
-<!DOCTYPE HTML>
-<head></head><body><input type="button">
-</body>
+<input type="text">
 
 <h4>📫 Contect Me 📫</h4>
 <p> <a href="https://www.instagram.com/_yesung.05/"><img src="https://img.shields.io/badge/Instagram-_yesung.05-E4405F?style=for-the-badge&logo=instagram&logoColor=white&edge_flat=false" height="21px"></a>
