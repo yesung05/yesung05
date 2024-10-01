@@ -17,7 +17,6 @@
 <img src="(https://img.shields.io/badge/Java-%235382A1.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="21px"/>
 </p>
 <hr>
-<input type="text">
 
 <h4>📫 Contect Me 📫</h4>
 <p> <a href="https://www.instagram.com/_yesung.05/"><img src="https://img.shields.io/badge/Instagram-_yesung.05-E4405F?style=for-the-badge&logo=instagram&logoColor=white&edge_flat=false" height="21px"></a>
