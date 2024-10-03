@@ -22,7 +22,7 @@
 <p> <a href="https://www.instagram.com/_yesung.05/"><img src="https://img.shields.io/badge/Instagram-_yesung.05-E4405F?style=for-the-badge&logo=instagram&logoColor=white&edge_flat=false" height="21px"></a>
   <img src="https://img.shields.io/badge/Gmail-jyslove05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="21px"></p>
 <hr>
-hello
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesung05)
 <!---
 - 😄 Pronouns: He, Him
