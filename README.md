@@ -1,5 +1,5 @@
 <h2>!Welcome to my Github!</h2>
-<h4>🎈 Yesung Cho 🎈</h4>
+<h2>🎈 Yesung Cho 🎈</h2>
 <h4>🍰 21/09/2005 🍰</h4>
 <p>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesung05%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
