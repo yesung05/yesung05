@@ -24,7 +24,8 @@
   <img src="https://img.shields.io/badge/Gmail-jyslove05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="21px"></p>
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesung05)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesung05)]
+<a href="[your-image.jp](https://github-readme-stats.vercel.app/api/top-langs/?username=yesung05)g" alt="Responsive Image" width="100%">
 <!---
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I'm noob :)
