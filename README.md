@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Gmail-jyslove05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="21px"></p>
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesung05&card_width=1000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesung05&card_width=700)
 
 
 <!---
