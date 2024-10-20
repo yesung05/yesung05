@@ -17,8 +17,7 @@
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="21px"/>
 <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="21px"/>
 <img src="https://img.shields.io/badge/JSP-%23F1C20E.svg?style=for-the-badge&logo=javascript&logoColor=white" height="21px"/>
-<img src="(https://img.shields.io/badge/Java-%235382A1.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="21px"/>
-&JAVA (뱃지 추가 예정
+<img src="https://img.shields.io/badge/Java-%235382A1.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="21px"/>
 </p>
 <hr>
 
