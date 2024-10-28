@@ -35,7 +35,7 @@
 - ⚡ Fun fact: I'm noob :)
 - 🏠 Living at Seoul, South Korea
 - 📖 I started learning programming at age 14
-- 🍰 Birth: 21/09/2005
+- 🍰 Birth: 21/09/2005 helloworld
 
 yesung05/yesung05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your[HelloWorld Grass](https://github.com/user-attachments/assets/38170a03-f40e-4483-95c6-4407a2b1d273)
