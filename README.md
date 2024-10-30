@@ -1,5 +1,5 @@
 <h2>Welcome to my Github !</h2>
-<h1>Exam stress ㅇㅅㅇ</h1>
+<h1>Exam stress</h1>
 <p>
 <h3>🎈 Yesung Cho 🎈</h3>
 <h3>🍰 21/09/2005 🍰</h3>
