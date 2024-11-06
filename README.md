@@ -5,25 +5,25 @@
 <h3>🇰🇷 South Korea 🇰🇷 </h3>
 </p>
 <p>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesung05%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesung05%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
 </p>
 <hr>
    
 <h3>📖 Studying 📖</h3>
 <p>
-<img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=plastic&logo=c&logoColor=white" height="21px"/>
-<img src="https://img.shields.io/badge/Python-%23306998.svg?style=plastic&logo=python&logoColor=white" height="21px"/>
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" height="21px"/>
-<img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white" height="21px"/>
-<img src="https://img.shields.io/badge/JSP-%23F1C20E.svg?style=plastic&logo=javascript&logoColor=white" height="21px"/>
-<img src="https://img.shields.io/badge/Java-%235382A1.svg?style=plastic&logo=openjdk&logoColor=white" height="21px"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" height="21px"\>
+<img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat&logo=c&logoColor=white" height="21px"/>
+<img src="https://img.shields.io/badge/Python-%23306998.svg?style=flat&logo=python&logoColor=white" height="21px"/>
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" height="21px"/>
+<img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="21px"/>
+<img src="https://img.shields.io/badge/JSP-%23F1C20E.svg?style=flat&logo=javascript&logoColor=white" height="21px"/>
+<img src="https://img.shields.io/badge/Java-%235382A1.svg?style=flat&logo=openjdk&logoColor=white" height="21px"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" height="21px"\>
 </p>
 <hr>
 
 <h3>📫 Contect Me 📫</h3>
-<p> <a href="https://www.instagram.com/_yesung.05/"><img src="https://img.shields.io/badge/Instagram-_yesung.05-E4405F?style=plastic&logo=instagram&logoColor=white&edge_flat=false" height="21px"></a>
-  <img src="https://img.shields.io/badge/Gmail-jyslove05@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white" height="21px"></p>
+<p> <a href="https://www.instagram.com/_yesung.05/"><img src="https://img.shields.io/badge/Instagram-_yesung.05-E4405F?style=flat&logo=instagram&logoColor=white&edge_flat=false" height="21px"></a>
+  <img src="https://img.shields.io/badge/Gmail-jyslove05@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="21px"></p>
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesung05&card_width=700px)
