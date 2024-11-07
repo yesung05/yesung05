@@ -10,7 +10,6 @@
 <hr>
    
 <h3>📖 Studying 📖</h3>
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat&logo=c&logoColor=white")
 <p>
 <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat&logo=c&logoColor=white" height="21px"/>#
 <img src="https://img.shields.io/badge/Python-%23306998.svg?style=flat&logo=python&logoColor=white" height="21px"/>
