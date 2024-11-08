@@ -2,7 +2,8 @@
 <p>
 <h3>🎈 Yesung Cho 🎈</h3>
 <h3>🍰 21/09/2005 🍰</h3>
-### ![south-korea-google](https://github.com/user-attachments/assets/59059096-d9b7-4524-86f7-8b987c381c7b) South Korea ![south-korea-google](https://github.com/user-attachments/assets/59059096-d9b7-4524-86f7-8b987c381c7b)</h3>
+### ![south-korea-google](https://github.com/user-attachments/assets/59059096-d9b7-4524-86f7-8b987c381c7b) South Korea ![south-korea-google](https://github.com/user-attachments/assets/59059096-d![south-korea-google](https://github.com/user-attachments/assets/e268942a-8789-4d47-88f1-c3333bc4fc5b)
+9b7-4524-86f7-8b987c381c7b)</h3>
 
 </p>
 <p>
