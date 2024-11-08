@@ -3,11 +3,7 @@
 <h3>🎈 Yesung Cho 🎈</h3>
 <h3>🍰 21/09/2005 🍰</h3>
 
-![south-korea](https://github.com/user-attachments/assets/0ae7fb86-9c29-4374-8e4d-1a628c81261b)
-South Korea  
-![south-korea](https://github.com/user-attachments/assets/08e32355-5b0d-495f-a471-d2bfb07db570)
-
-
+<img src="https://github.com/user-attachments/assets/0ae7fb86-9c29-4374-8e4d-1a628c81261b" width="20" height="20"> South Korea <img src="https://github.com/user-attachments/assets/0ae7fb86-9c29-4374-8e4d-1a628c81261b" width="20" height="20">
 </p>
 <p>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesung05%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
