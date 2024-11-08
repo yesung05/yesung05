@@ -2,7 +2,7 @@
 <p>
 <h3>🎈 Yesung Cho 🎈</h3>
 <h3>🍰 21/09/2005 🍰</h3>
-### ![south-korea](https://cdn-0.emojis.wiki/emoji-pics/google/south-korea-google.png) South Korea ![south-korea](https://github.com/user-attachments/assets/9f88626b-d350-4a69-b4e9-23fd47a632e6)
+### ![south-korea](https://cdn-0.emojis.wiki/emoji-pics/google/south-korea-google.png) South Korea ![south-korea](https://cdn-0.emojis.wiki/emoji-pics/google/south-korea-google.png)
 
 </p>
 <p>
