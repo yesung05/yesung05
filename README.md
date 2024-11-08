@@ -3,6 +3,7 @@
 <h3>🎈 Yesung Cho 🎈</h3>
 <h3>🍰 21/09/2005 🍰</h3>
 
+![south-korea](https://github.com/user-attachments/assets/0ae7fb86-9c29-4374-8e4d-1a628c81261b)
 South Korea  
 ![south-korea](https://github.com/user-attachments/assets/08e32355-5b0d-495f-a471-d2bfb07db570)
 
