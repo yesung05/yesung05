@@ -2,7 +2,8 @@
 <p>
 <h3>🎈 Yesung Cho 🎈</h3>
 <h3>🍰 21/09/2005 🍰</h3>
-<h3>🇰🇷 South Korea 🇰🇷 </h3>
+<h3>![south-korea-google](https://github.com/user-attachments/assets/59059096-d9b7-4524-86f7-8b987c381c7b) South Korea ![south-korea-google](https://github.com/user-attachments/assets/59059096-d9b7-4524-86f7-8b987c381c7b)</h3>
+
 </p>
 <p>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesung05%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
