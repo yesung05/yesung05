@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Gmail-jyslove05@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="21px"></p>
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesung05&card_width=700px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesung05)
 [![Yesung's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesung05)](https://github.com/yesung05/github-readme-stats)
 
 <!---
