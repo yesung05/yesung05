@@ -31,7 +31,7 @@
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesung05&card_width=700px)
-
+[![Yesung's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesung05)](https://github.com/yesung05/github-readme-stats)
 
 <!---
 - 😄 Pronouns: He, Him
