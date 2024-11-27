@@ -31,7 +31,7 @@
 <hr>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=yesung05&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true" alt="Yesung's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesung05&layout=compact&theme=apprentice&hide_border=true" /> |
-|----|----|
+| ------------- | ------------- |
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yesung05&theme=apprentice)
 <!---
 - 😄 Pronouns: He, Him
