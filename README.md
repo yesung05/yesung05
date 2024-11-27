@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Gmail-jyslove05@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="21px"></p>
 <hr>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yesung&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yesung's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesung05&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yesung05&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yesung's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesung05&layout=compact&theme=buefy&hide_border=true" /> |
 
 <!---
 - 😄 Pronouns: He, Him
