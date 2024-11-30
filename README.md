@@ -30,11 +30,11 @@
   <img src="https://img.shields.io/badge/Gmail-jyslove05@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="21px"></p>
 <hr>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yesung05&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Yesung's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesung05&layout=compact&theme=vue&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yesung05&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Yesung's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesung05&layout=compact&theme=transparent&hide_border=true" /> |
 | ------------- | ------------- |
 
-![YesungcommitType](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yesung05&theme=transparent&utcOffset=9&border=false)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yesung05&theme=vue)
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yesung05&theme=vue&hide_border=true" alt="Yesung's github stats" />
+![YesungcommitType](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yesung05&theme=transparent&utcOffset=9&border=false)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yesung05&theme=transparent)
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yesung05&theme=transparent&hide_border=true" alt="Yesung's github stats" />
 <!---
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I'm noob :)
