@@ -33,7 +33,6 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=yesung05&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Yesung's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesung05&layout=compact&theme=transparent&hide_border=true" /> |
 | [![GitHub Streak](https://streak-stats.demolab.com?user=yesung05&theme=transparent&hide_border=true&border_radius=0&card_width=750)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yesung05&theme=transparent) |
 | <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yesung05&theme=transparent&hide_border=true" alt="Yesung's github stats" /> | ![YesungcommitType](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yesung05&theme=transparent&utcOffset=9&border=false&card_width=750) |
-| ------------- | ------------- |
 <!---
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I'm noob :)
