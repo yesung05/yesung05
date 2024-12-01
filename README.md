@@ -1,5 +1,5 @@
 <div align ="center">
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /><h2>Welcome to yesung05's Github !</h2><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<div><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /><h2>Welcome to yesung05's Github !</h2><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></div>
 <p>
 <h3>🎈 Yesung Cho 🎈</h3>
 <h3>🍰 21/09/2005 🍰</h3>
