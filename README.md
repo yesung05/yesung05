@@ -37,6 +37,7 @@
 | <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yesung05&theme=transparent&hide_border=true" alt="Yesung's github stats" /> | ![YesungcommitType](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yesung05&theme=transparent&utcOffset=9&border=false&card_width=750) |
 
 </div>
+<div align = "left" ><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"></div>
 <!---
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I'm noob :)
