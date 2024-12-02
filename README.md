@@ -1,7 +1,7 @@
 <div align ="center">
 <h1><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Welcome to Yesung05's Github <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></h1>
 
-<h3>🎈 Yesung Cho 🎈        🍰 21/09/2005 🍰</h3>
+<h3>🎈 Yesung Cho 🎈 &nbsp&nbsp&nbsp&nbsp 🍰 21/09/2005 🍰</h3>
 
 <p>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesung05%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
