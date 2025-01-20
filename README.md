@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/JS-%23F1C20E.svg?style=flat&logo=javascript&logoColor=white" height="21px"/>
 <img src="https://img.shields.io/badge/Java-%235382A1.svg?style=flat&logo=openjdk&logoColor=white" height="21px"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" height="21px"\>
+  <img src="https://img.shields.io/badge/r.svg?style=flat&logo=r&logoColor=white" height="21px"\>
 </p>
 <hr>
 
